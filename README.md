@@ -11,3 +11,8 @@
 <p align="center">
   <img src="https://user-images.githubusercontent.com/99073523/189558673-233542fd-3ed5-432b-b8d1-b839ba9f729c.gif"/>
 </p>
+
+## compatibility
+
+This app is compatable with android 7 or more 
+
